@@ -8,10 +8,7 @@ Loadout Forge is a dynamic form builder where you design forms visually, watch t
 
 ## Demo
 
-
 [![Loadout Forge Demo](https://img.youtube.com/vi/9WlZEgOdC6c/hqdefault.jpg)](https://youtu.be/9WlZEgOdC6c)
-
----
 
 ## What It Does
 
